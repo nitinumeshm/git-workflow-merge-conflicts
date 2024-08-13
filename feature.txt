@@ -1,1 +1,2 @@
-Adding a new feature
+1. Adding a new feature
+2. Change 1 added
